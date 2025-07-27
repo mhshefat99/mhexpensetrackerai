@@ -4,7 +4,7 @@ import ExpenseStats from "@/components/ExpenseStats";
 import Guest from "@/components/Guest";
 import RecordChart from "@/components/RecordChart";
 import RecordHistory from "@/components/RecordHistory";
-import Image from "next/image";
+// import Image from "next/image";
 import { currentUser } from "@clerk/nextjs/server";
 
 export default async function HomePage() {
